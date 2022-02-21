@@ -31,3 +31,28 @@ body {
     background-color: #c4bfb3;
     font-size: 19px;
 }
+.rss-wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 20px auto 0;
+}
+.est{
+    display: block;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    font-weight: 600;
+    font-size: 110%;
+    color: rgb(31, 58, 4);
+}
+.github-link{
+    text-decoration: none;
+    color: rgb(11, 17, 31);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    padding-top: 30px;
+}
+.rrs-link{
+    padding-top: 20px;
+}
